@@ -69,7 +69,7 @@
 
 <!-- ⚠️ Important: Replace 'Iamrajnish07' with your actual Twitter username in the URL below -->
 <div align="center">
-  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=Iamrajnish07" /></a>
+  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=iamrajnish07" /></a>
 </div>
 
 ## 💻 Tech Stack
